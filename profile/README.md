@@ -2,13 +2,11 @@
 <br />
 <p align="center">
   <a href="https://www.nashvillefcc.com/">
-    <img src="https://github.com/nashvillefcc/.github/blob/main/FCC-Nashville-orange-logo.svg" alt="Nashville freeCodeCamp Logo" font-weight="400" width="100" height="100">
+    <img src="https://github.com/nashvillefcc/.github/blob/main/FCC-Nashville-orange-logo.png" alt="Nashville freeCodeCamp Logo" width="200" height="200">
+    <h1 align="center">
+      Welcome to Nashville freeCodeCamp! :wave:
+    </h1>
   </a>
-  <h1 align="center">
-    <a href="https://www.nashvillefcc.com/" >
-      Nashville freeCodeCamp
-    </a>
-  </h1>
 </p>
 <!--
 
